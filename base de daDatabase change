@@ -1,0 +1,61 @@
+ create table carrera(
+    -> clave_carrera varchar(6) primary key,
+    -> nombre_carrera varchar(55),
+    -> periodo varchar(20),
+    -> grupo varchar(8),
+    -> semestre varchar(15),
+    -> clave_docente varchar(10),
+    -> clave_materias varchar(10));
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> create table docentes(
+clave_docente varchar(10) primary key, 
+nombre_docente varchar(50), 
+clave_carrera varchar(6), 
+telefono varchar(15), 
+direccion varchar(50), 
+especialidad varchar(30), 
+correo varchar(25), 
+foreign key(clave_carrera) references carrera(clave_carrera));
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> create table materia(
+    -> clave_materias varchar(10) primary key,
+    -> nombre_materia varchar(35),
+    -> clave_docente varchar(10),
+    -> unidades varchar(2),
+    -> creditos varchar(3),
+    -> foreign key(clave_docente) references docentes(clave_docente));
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> create table alumnos( 
+numero_control varchar(10) primary key, 
+nombre_alumno varchar(50), 
+semestre varchar(15), 
+grupo varchar(8), 
+edad varchar(2), 
+direccion varchar(50), 
+sexo varchar(10), 
+correo varchar(25), 
+clave_carrera varchar(6), 
+clave_materia varchar(10), 
+foreign key(clave_carrera) references carrera(clave_carrera),
+foreign key(clave_materia) references materia(clave_materia));
+Query OK, 0 rows affected (0.07 sec)
+
+Database changed
+mysql> create table calificaciones(
+    -> promedio varchar(3),
+    -> clave_materia varchar(10),
+    -> numero_control varchar(10),
+    -> clave_carrera varchar(10),
+    -> materia_reprobada varchar(10),
+    -> creditos varchar(3),
+    -> clave_docente varchar(10),
+    -> opcion_evaluacion varchar(15),
+    -> foreign key(numero_control) references alumnos(numero_control));
+Query OK, 0 rows affected (0.08 sec)
+
+
+
+
