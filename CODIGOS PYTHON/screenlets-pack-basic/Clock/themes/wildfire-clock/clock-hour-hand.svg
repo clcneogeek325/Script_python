@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   version="1.0"
+   sodipodi:docname="clock-hour-hand.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 50 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="100 : 50 : 1"
+       inkscape:persp3d-origin="50 : 33.333333 : 1"
+       id="perspective25" />
+    <linearGradient
+       id="linearGradient2202">
+      <stop
+         style="stop-color:#a5adad;stop-opacity:1;"
+         offset="0"
+         id="stop2204" />
+      <stop
+         style="stop-color:#e8f4ed;stop-opacity:1;"
+         offset="1"
+         id="stop2206" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="181.01934"
+     inkscape:cx="34.099877"
+     inkscape:cy="100.25361"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1590"
+     inkscape:window-height="922"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     showgrid="false"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="50"
+       id="guide1307" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="50"
+       id="guide1309" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="100"
+       id="guide1311" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="0"
+       id="guide1313" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="100"
+       id="guide1315" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="0"
+       id="guide1317" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="90.060241"
+       id="guide1319" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="10.040161"
+       id="guide1321" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="90.060241"
+       id="guide1323" />
+    <sodipodi:guide
+       orientation="horizontal"
+       position="10.040161"
+       id="guide1325" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="-10.040161"
+       id="guide4953" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="40.060241"
+       id="guide4955" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="30.02008"
+       id="guide4957" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:0.75000000000000000;fill-rule:evenodd;stroke:#282d30;stroke-width:1.25000000000000000;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 0,0 30.02008,0"
+       id="path4959"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#282d30;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1329"
+       sodipodi:cx="-2.196775"
+       sodipodi:cy="5.2248487"
+       sodipodi:rx="1.2553"
+       sodipodi:ry="1.2553"
+       d="M -0.94147491 5.2248487 A 1.2553 1.2553 0 1 1  -3.452075,5.2248487 A 1.2553 1.2553 0 1 1  -0.94147491 5.2248487 z"
+       transform="translate(2.195354,-5.226252)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.33600003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M -0.63623161,1.9191538 C -1.3771687,1.6662214 -1.906988,1.0397207 -2.035425,0.26462764 -2.258606,-1.0822265 -1.0279164,-2.311409 0.32011939,-2.0880323 c 0.492859,0.08167 0.86796661,0.2894259 1.22390591,0.677871 l 0.302048,0.3296323 4.4583717,0.044603 28.024356,-0.059206 c 0.537277,0.055085 1.072933,0.029357 1.020003,1.095132 6.43e-4,0.65803104 -0.401911,0.98332151 -1.038563,1.0115738 l -7.659043,-0.0446034 -24.8212943,0 -0.1862243,0.249375 c -0.2200086,0.294618 -0.5002817,0.4991482 -0.92109801,0.6721754 -0.3766091,0.1548506 -0.9566272,0.167926 -1.358813,0.030633 l 0,0 z"
+       id="path2831"
+       sodipodi:nodetypes="csscccccccccscc" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.00110485;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -0.87532687,-0.89638573 c 0.0437091,-0.0445688 0.13160618,-0.11537967 0.19317658,-0.15562527 0.0587882,-0.038427 0.18523918,-0.1017859 0.25135437,-0.1259423 0.0669828,-0.024473 0.18028847,-0.052653 0.25715479,-0.063957 0.08967821,-0.013187 0.25796117,-0.013196 0.34499082,-1.83e-5 0.21401399,0.032405 0.41220276,0.1142287 0.57688031,0.2381686 0.0422676,0.0318115 0.13741504,0.11450727 0.15161889,0.13177696 0.007075,0.008602 -0.0531579,0.009218 -0.90028333043,0.009218 l -0.90786512957,0 0.0329727,-0.0336212 z"
+       id="path3626" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.00110485;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M -0.06895613,1.2495455 C -0.36993867,1.2311517 -0.65624593,1.1059219 -0.86829657,0.89991685 l -0.0569217,-0.0552988 0.9213377,-1.9128e-4 0.92133766,-1.9127e-4 -0.0115336,0.0156 C 0.89285444,0.87751239 0.82651628,0.93861176 0.7765562,0.97898653 0.68874155,1.0499531 0.54423781,1.131761 0.43454417,1.1726098 c -0.14920256,0.055562 -0.35034036,0.086296 -0.5035003,0.076936 z"
+       id="path3628" />
+  </g>
+</svg>

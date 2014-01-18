@@ -1,0 +1,11 @@
+Format-Specification: http://wiki.debian.org/Proposals/CopyrightFormat
+Upstream-Name: ejemplo
+Upstream-Maintainer: neoggek <clcneogeek@gmail.com>
+Upstream-Source: www.gnome-look.org
+
+Files: *
+Coincidencia en el archivo binario ./5LSG8QWTv-o.mp4
+Coincidencia en el archivo binario ./Cartel-De-Santa-Mixtape-Casa-Babilonia-2008.jpg
+Coincidencia en el archivo binario ./Hadrian-Delantera.jpg
+Coincidencia en el archivo binario ./look-image.jpg
+License: GNU

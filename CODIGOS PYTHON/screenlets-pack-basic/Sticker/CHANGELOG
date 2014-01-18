@@ -1,0 +1,53 @@
+CHANGELOG:
+
+21.4.2009.
+v0.7
+added option to show date instead of time 
+- it can now all time show time and on click show 
+date and show date and on click to show time, 
+depending on your settings
+
+11.9.2008.
+added 3 new themes
+
+27.6.2008.
+v0.6.2 added theme.conf with theme details
+to every theme
+-----------------------------------------
+9.4.2008.
+
+v0.6.1 fixed bug with localization
+(thanks Whise for good screenlets documentation)
+-----------------------------------------
+9.4.2008.
+
+v0.6 new modifications on code and themes
+removed showing of date
+added showing of day of week
+added new themes
+look improved
+removed first digit when it was 0 (eg. earlier was 01:57 now is 1:57)
+-----------------------------------------
+8.4.2008.
+
+v0.5. modifications on screenlet code and themes...
+themes are not compatibile with previous versions
+now looks more like real digital clock
+-----------------------------------------
+23.3.2008.
+
+v0.4
+fixed 2 bugs:
+1. AM/PM was not changing when screenlet was working.. it was only loading on start
+2. on PM hours clock wasn't showing with 2 digits always like on AM hours
+-----------------------------------------
+21.3.2008.
+
+v0.3
+added font options, position options and color options for time and date text
+added 24/12 support
+added date on/off
+-----------------------------------------
+19.3.2008.
+
+v0.2 initial relese

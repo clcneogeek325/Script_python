@@ -1,0 +1,1 @@
+/usr/share/pyshared/screenlets/__init__.py
